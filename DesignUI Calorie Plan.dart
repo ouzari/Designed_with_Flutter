@@ -214,6 +214,7 @@ class MyWidget extends StatelessWidget {
                         ),
                       ],
                     )))),
+            SizedBox(height: 10),
             Padding(
                 padding: EdgeInsets.symmetric(horizontal: 30),
                 child: Row(
